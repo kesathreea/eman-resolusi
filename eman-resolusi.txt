@@ -2,3 +2,4 @@ My resolusi 2020
 -Belajar PHP
 -Belajar Javascript
 -Membuat aplikasi web sendiri
+-Belajar membuat aplikasi mobile
