@@ -1,0 +1,7 @@
+RENCANA APLIKASI YANG AKAN DIBUAT
+-D Cafe
+ *fitur booking tempat
+ *fitur live tanya jawab
+ *fitur galery cafe
+-Perpustakaan Online
+-Situs download MP3
