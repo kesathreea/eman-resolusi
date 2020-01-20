@@ -4,7 +4,10 @@ RENCANA APLIKASI YANG AKAN DIBUAT
  *fitur live tanya jawab
  *fitur galery cafe
  *fitur live streaming in cafe
+ *fitur short video
+ *fitur share foto
 -Perpustakaan Online
 -Web download anime
- *naruto
  *fairytale
+ *one piece
+ *naruto
