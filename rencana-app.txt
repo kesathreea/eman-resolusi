@@ -4,6 +4,7 @@ RENCANA APLIKASI YANG AKAN DIBUAT
  *fitur live tanya jawab
  *fitur galery cafe
  *fitur short video
+ *fitur share foto
 -Perpustakaan Online
 -Situs download MP3
 -Web download anime
