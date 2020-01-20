@@ -3,6 +3,8 @@ RENCANA APLIKASI YANG AKAN DIBUAT
  *fitur booking tempat
  *fitur live tanya jawab
  *fitur galery cafe
+ *fitur live streaming in cafe
 -Perpustakaan Online
--Situs download MP3
 -Web download anime
+ *naruto
+ *fairytale
